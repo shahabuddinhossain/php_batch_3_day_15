@@ -1,0 +1,25 @@
+{
+  "name": "vendor_name/php_batch_3_day_14",
+  "type": "project",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "keywords": [],
+  "authors": [
+    {
+      "name": "PHP with Laravel",
+      "email": "voc_1992@yahoo.com"
+    }
+  ],
+  "require": {
+    
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
